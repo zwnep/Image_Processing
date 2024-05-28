@@ -3,6 +3,20 @@ Pyqt5 kullanarak bir görüntü işleme uygulaması tasarlama
 
 PyQt5 tarafından uygulanan görüntü işleme kullanıcı arayüzü. Program ile eşik, evrişim, morfolojik algoritmalar dahil olmak üzere bazı geleneksel görüntü işleme algoritmalarını uygular.
 
+Yöntemler:  
+
+•	Histogram Analizi ve Eşikleme: Otsu ve Entropy gibi otomatik eşikleme yöntemleri. 
+•	Konvolüsyon ve Filtreler: Robert, Prewitt, Sobel operatörleri; Gaussian ve Median filtreler. 
+•	Morfolojik İşlemler: İkili ve gri tonlamalı görüntülerde erozyon, genişleme, açma, kapama, morfolojik iskelet ve iskelet restorasyonu gibi işlemler.
+
+Teknolojiler:  
+
+•	PyQt5: Kullanıcı arayüzü oluşturma. 
+•	NumPy: Sayısal hesaplamalar ve görüntü işleme. 
+•	OpenCV: Görüntü işleme algoritmalarının uygulanması. 
+
+
+
 
 Ana Pencere:
 
