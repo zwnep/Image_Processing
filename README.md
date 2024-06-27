@@ -1,6 +1,4 @@
 # Image_Processing
-Pyqt5 kullanarak bir görüntü işleme uygulaması tasarlama 
-
   
 PyQt5 tarafından uygulanan görüntü işleme kullanıcı arayüzü. Program ile eşik, evrişim, morfolojik algoritmalar dahil olmak üzere bazı geleneksel görüntü işleme algoritmalarını uygular.
   
